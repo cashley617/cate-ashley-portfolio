@@ -168,10 +168,10 @@
         /* Career List                                                        */
         /**********************************************************************/	
 
-        ul.career-list
+        /* ul.career-list
         {
            
-        }
+        } */
 
             ul.career-list li
             {
@@ -217,7 +217,7 @@
                         background-position:0px -16px;
                         background-image:url('../image/skill_icon.png');
                         -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-                        #filter:alpha(opacity=0);
+                        filter:alpha(opacity=0);
                     }
 
                     ul.skill-list li div.skill-list-item-level span:first-child
@@ -257,10 +257,10 @@
     /* Contact List                                                           */
     /**************************************************************************/
 
-	ul.contact-list
+	/* ul.contact-list
 	{
 
-	}
+	} */
 
 		ul.contact-list li
 		{

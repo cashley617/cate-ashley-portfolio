@@ -264,7 +264,7 @@ img
 	/*	Layout / Layout 50x50%												   /
 	/**************************************************************************/
 
-	.layout-50 {}
+	/* .layout-50 {} */
 
 	.layout-50-left 
 	{ 
@@ -287,7 +287,7 @@ img
 	/*	Layout / Layout 60x40%												   /
 	/**************************************************************************/
 
-	.layout-6040 {}
+	/* .layout-6040 {} */
 
 	.layout-6040-left 
 	{
@@ -306,7 +306,7 @@ img
 	/*	Layout / Layout 40x60%												   /
 	/**************************************************************************/
 
-	.layout-4060 {}
+	/* .layout-4060 {} */
 
 	.layout-4060-left 
 	{
@@ -325,7 +325,7 @@ img
 	/*	Layout / Layout 70x30%												   /
 	/**************************************************************************/
 
-	.layout-7030 {}
+	/* .layout-7030 {} */
 
 	.layout-7030-left 
 	{
@@ -573,7 +573,7 @@ ul.no-list
 	{
 		opacity:0;
 		-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-		#filter:alpha(opacity=0);
+		filter:alpha(opacity=0);
 	}
 
 /******************************************************************************/
@@ -1215,7 +1215,7 @@ div.footer
 		margin:0px;
 		padding:0px;
 		border:none;
-		#margin-top:-7px;
+		margin-top:-7px;
 	}
 
 	div.footer div.main
@@ -1224,7 +1224,7 @@ div.footer
 		min-height:43px;
 		position:relative;
 		padding:25px 0px 25px 0px;
-		#margin-top:-13px;
+		margin-top:-13px;
 	}
 
 	/**************************************************************************/
